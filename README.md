@@ -2,11 +2,11 @@
 
 This is a PoC written in Go for Wordpress Privilege Escalation. It was based on exploit´s logic of https://www.exploit-db.com/exploits/41006
 
-Build it:
+Build it:  
 go build PE-WPTicketSystem.go
 
 Execute it:  
-  [Linux]  
+[Linux]  
 PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 
 [Windows]  
