@@ -12,4 +12,4 @@ PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 [Windows]  
 PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 
-This is a PoC, you will need to add the cookies to your web request to get privileged access if vulnerable. This is intended for educational purposes only.
+This is a PoC, you will need to add the cookies to your web request to get privileged access if vulnerable. Intended for educational purposes only.
