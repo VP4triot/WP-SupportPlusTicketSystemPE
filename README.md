@@ -5,8 +5,8 @@ This is a PoC written in Go for Wordpress Privilege Escalation. It was based on 
 Build it:
 go build PE-WPTicketSystem.go
 
-Execute it:    
-[Linux]  
+Execute it:  
+  [Linux]  
 PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 
 [Windows]  
