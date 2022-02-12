@@ -6,10 +6,10 @@ Build it:
 go build PE-WPTicketSystem.go
 
 Execute it:
-[Linux] 
+[Linux]  
 PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 
-[Windows] 
+[Windows]  
 PE-WPTicketSystem.go https://URL/wp-admin/admin-ajax.php user
 
 This is a PoC you will need to add the cookies to your web request to get privileged access if vulnerable.
